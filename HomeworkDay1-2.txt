@@ -1,0 +1,4 @@
+Home Work
+1. to print hello 5 times
+2. print number from 1-5
+3. to check ifnumber is even or odd
